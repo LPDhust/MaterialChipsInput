@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=D:\Developer\AndroidStudioProjects\MaterialChipsInput\sample\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar
+FILE_HASH=d288cfad4bafa696f191df788545f2777e54011e
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
